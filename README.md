@@ -1,4 +1,4 @@
-# Speech Emotion Detection
+# Speech Emotion Recognition
 
 ## Introduction
 
